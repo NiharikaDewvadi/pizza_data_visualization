@@ -18,7 +18,7 @@ The solution delivers insights into **sales trends, customer behavior, and produ
 ### KPI Requirements
 
 | KPI | 
-|---|---|
+---
 | Total Revenue | 
 | Average Order Value | 
 | Total Pizzas Sold |
@@ -137,5 +137,4 @@ All KPIs are:
 
 ---
 
-## 📁 Repository Structure
 
