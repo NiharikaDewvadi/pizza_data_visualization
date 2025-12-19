@@ -18,11 +18,11 @@ The solution delivers insights into **sales trends, customer behavior, and produ
 ### KPI Requirements
 
 ---
-Total Revenue
-Average Order Value 
-Total Pizzas Sold
-Total Orders
-Average Pizzas per Order
+- Total Revenue  
+- Average Order Value  
+- Total Pizzas Sold  
+- Total Orders  
+- Average Pizzas per Order  
 
 All KPIs are:
 1. First calculated in **SQL**
