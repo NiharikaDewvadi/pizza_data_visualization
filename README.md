@@ -98,7 +98,7 @@ The project provides insights into **sales trends, customer behavior, and produc
 
 Screenshots of both dashboards are available below for quick reference.
 
-- 🏠 [Home Dashboard](powerbi/Home.png)
-- 📊 [Best & Worst Sellers Dashboard](powerbi/Best_Worst_Sellers.png)
+- 🏠 [Home](powerbi/Home.png)
+- 📊 [Best & Worst Sellers](powerbi/Best_Worst_Sellers.png)
 
 
