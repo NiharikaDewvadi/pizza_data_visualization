@@ -1,4 +1,4 @@
-# 🍕 Pizza Data Visualization – SQL & Power BI
+# 🍕 Pizza Sales Data Visualization – SQL & Power BI
 
 ## 🔎 Executive Summary
 An end-to-end **SQL and Power BI analytics project** focused on analyzing pizza sales performance using validated KPIs and interactive dashboards.  
