@@ -92,13 +92,15 @@ The project provides insights into **sales trends, customer behavior, and produc
 - Early detection of underperforming pizzas  
 - Support for pricing and menu optimization decisions  
 
+---
 
 ## 🖼️ Dashboard Previews
 
 Screenshots of both dashboards are available below for quick reference.
 
-### Home Page
-[![Home Page Dashboard](images/home_page.png)](images/home_page.png)
+### Home
+[![Home Dashboard](powerbi/Home.png)](powerbi/Home.png)
 
-### Best Sellers
-[![Best Sellers Dashboard](images/best_sellers.png)](images/best_sellers.png)
+### Best & Worst Sellers
+[![Best & Worst Sellers Dashboard](powerbi/Best_Worst_Sellers.png)](powerbi/Best_Worst_Sellers.png)
+
