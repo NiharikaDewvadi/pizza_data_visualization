@@ -55,7 +55,7 @@ The project provides insights into **sales trends, customer behavior, and produc
 1. **SQL Setup & Import** – Loaded CSV data into SQL Server and validated structure  
 2. **KPI Queries** – Implemented and verified all KPIs using SQL  
 3. **Analysis Queries** – Created queries for trends, category splits, and best/worst sellers  
-4. **Documentation** – Stored SQL queries and results in [Pizza Sales Queries](sql/Pizza%20Sales%20Queries.md)
+4. **Documentation** – Stored SQL queries and results in [Pizza Sales Queries](sql/Pizza_Sales_Queries.docx)
 5. **Power BI Connection** – Connected Power BI directly to SQL Server  
 6. **Power Query** – Applied data typing and date derivations  
 7. **DAX Measures** – Recreated KPIs and validated results against SQL outputs  
