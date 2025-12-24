@@ -93,10 +93,8 @@ The project provides insights into **sales trends, customer behavior, and produc
   Forecasting demand using daily and monthly trends minimizes stock-outs and over-preparation, reducing food waste by **5–8%** and improving operational margins.
 - **High-Performing Product Promotions**  
   Promoting top-selling pizzas through bundles and limited-time offers increases visibility and drives incremental sales, resulting in a **4–7% revenue uplift**.
-
 - **Underperforming Product Detection**  
   Identifying consistently low-selling items enables recipe optimization, discounting, or removal, improving menu efficiency and increasing **average order value by 2–4%**.
-
 - **Pricing & Menu Optimization Support**  
   Analyzing size and category preferences supports data-driven pricing and upselling strategies, improving **average order value by 1–3%**.
 
